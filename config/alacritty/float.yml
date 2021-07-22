@@ -1,67 +1,7 @@
 import:
-   - /home/bw8/.config/alacritty/colors.yml
+   - /home/bw8/.config/alacritty/alacritty.yml
 
 window:
   dimensions:
     columns: 80
     lines: 10  
-
-# Font configuration (changes require restart)
-font:
-  # The normal (roman) font face to use.
-  normal:
-    family: Inconsolata Nerd Font
-  # The bold font face
-  bold:
-    family: Inconsolata Nerd Font
-    # Style can be specified to pick a specific face.
-    style: Bold
-
-  # The italic font face
-  italic:
-    family: Inconsolata Nerd Font
-    # Style can be specified to pick a specific face.
-    style: Italic
-
-  size: 10 
-  #
-
-    # colors:
-    #   # Default colors
-    #   primary:
-    #     # background: '#0E1219'
-    #     background: '#0B1118'
-    #     foreground: '#989898'
-    # 
-    #   # Normal colors
-    #   normal:
-    #     black:   '#0B1118'
-    #     red:     '#DF4D49'
-    #     green:   '#2CFEA3'
-    #     yellow:  '#F6934A'
-    #     blue:    '#388E59'
-    #     magenta: '#2EA564'
-    #     #magenta: '#163929'
-    #     cyan:    '#962A30'
-    #     #cyan:    '#00cccc' cyan
-    #     #cyan:    '#F21B2B' old red
-    #     white:   '#a6c1b8'
-    # 
-    #   # Bright colors
-    #   bright:
-    #     black:   '#554B41'
-    #     # black:   '#517f8d'
-    #     red:     '#962A30'
-    #     green:   '#2EA564'
-    #     # green:   '#27db8b'
-    #     yellow:  '#FF784B'
-    #     blue:    '#388E59'
-    #     magenta: '#F21B2B'
-    #     # cyan:    '#22FCC6'
-    #     cyan:    '#F21B2B'
-    #     white:   '#a6c1b8'
-    # 
-    #   cursor:
-    #     text: "#F21b2b"
-    #     cursor: "#2CFEA3"
-
