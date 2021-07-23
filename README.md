@@ -16,17 +16,24 @@ The structure of my alacritty config is the following:
 
 ## Bspwm
 > bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.  
+
     [bspwmrc](config/bspwm/bspwmrc)
 ## Colors
+
     [colors](config/colors)
 ## Newsboat
+
     [Newsboat](config/newsboat)
 ## mpv
+
     [mpv](config/mpv)
 ## Sxhkd
 > sxhkd is an X daemon that reacts to input event by executing commands.  
+
     [sxhkd](config/sxhkd/sxhkdrc)
 ## Xresources
+
     [Xresources](config/Xresources)
 ## Zathura
+
     [zathura](config/zathura)
