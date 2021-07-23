@@ -17,7 +17,8 @@ super + {_,shift +} v
 
 # link2img (get image from clipboard link and save in subreddit folder)
 super + i
-	link2img -r
+        roffit
+	#link2img -r
 
 # desktop lock
 super + Caps_Lock
