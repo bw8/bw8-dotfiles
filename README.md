@@ -16,7 +16,7 @@ The structure of my alacritty config is the following:
 
 ## Bspwm
 > bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
-    [bspwmrc](../config/bspwm/bspwmrc)
+    [bspwmrc](config/bspwm/bspwmrc)
 ## Colors
 ## Newsboat
 ## mpv
